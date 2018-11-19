@@ -23,8 +23,8 @@ export class AppComponent {
   text = "";
   items: Item[] = 
   [
-      { note: "Хлеб", done: false},
-      { note: "Масло", done: false}
+      { note: "To do 1 thing", done: false},
+      { note: "Next one also", done: false}
   ];
   addItem(text: string): void {
        console.log(this.text)
