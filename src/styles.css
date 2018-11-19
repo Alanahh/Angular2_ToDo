@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: url('http://adwallpapers.xyz/uploads/posts/707-soft-cloud-background-with-gradient-colorful.jpg') no-repeat center center fixed;
+    background-size: cover;
+   font-family: 'AleksandraCRegular';
+    min-width: 320px;
+}
+@font-face {
+    font-family: 'AleksandraCRegular';
+    src: url('./assets/AleksandraCRegular/AleksandraCRegular.ttf') format("truetype"); ;
+  }
+  
